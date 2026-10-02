@@ -27,5 +27,5 @@ A run starts from a simple Python heuristic, searches a bounded local space of c
 - Install is from source; there is no public package-registry release.
 
 <p align="center">
-<a href="https://github.com/LibreEvolve/libreevolve">Source</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SUPPORT.md">Support</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SECURITY.md">Security</a> · Steward: Complete Tech LLC
+<a href="https://libreevolve.com">Website</a> · <a href="https://github.com/LibreEvolve/libreevolve">Source</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SUPPORT.md">Support</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SECURITY.md">Security</a> · Steward: Complete Tech LLC
 </p>
