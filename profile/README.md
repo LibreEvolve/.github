@@ -16,8 +16,10 @@ A run starts from a simple Python heuristic, searches a bounded local space of c
 
 | Repository | What it is |
 | --- | --- |
-| [`libreevolve`](https://github.com/LibreEvolve/libreevolve) | Open-source workbench for inspectable code-evolution experiments on bounded Python bin-packing. Start with the [quickstart](https://github.com/LibreEvolve/libreevolve/blob/main/docs/alpha-quickstart.md) and [safety and scope](https://github.com/LibreEvolve/libreevolve/blob/main/docs/safety.md). MIT license. |
-| [`.github`](https://github.com/LibreEvolve/.github) | Organization profile and community health files. |
+| [`libreevolve`](https://github.com/LibreEvolve/libreevolve) | Open-source workbench for inspectable code-evolution experiments on bounded Python bin-packing. |
+| [`.github`](https://github.com/LibreEvolve/.github) | Organization profile and community health files for LibreEvolve. |
+
+New to the project? Start with the [quickstart](https://github.com/LibreEvolve/libreevolve/blob/main/docs/alpha-quickstart.md) and [safety and scope](https://github.com/LibreEvolve/libreevolve/blob/main/docs/safety.md). `libreevolve` is MIT licensed.
 
 ## Limits
 
@@ -27,5 +29,5 @@ A run starts from a simple Python heuristic, searches a bounded local space of c
 - Install is from source; there is no public package-registry release.
 
 <p align="center">
-<a href="https://libreevolve.com">Website</a> · <a href="https://github.com/LibreEvolve/libreevolve">Source</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SUPPORT.md">Support</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SECURITY.md">Security</a> · Steward: Complete Tech LLC
+<a href="https://github.com/LibreEvolve/libreevolve">Source</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SUPPORT.md">Support</a> · <a href="https://github.com/LibreEvolve/.github/blob/main/SECURITY.md">Security</a> · Steward: Complete Tech LLC
 </p>
